@@ -51,6 +51,10 @@ The thesis jury, potential recruiters, and all interested parties are encouraged
 - Extract meaningful insights from healthcare data. 🔍💡
 - Apply ethical considerations in healthcare AI research. 🌐🤝
 
+## License
+
+This project is licensed under the [MIT License](./LICENSE).
+
 ## Contact 📧
 
 For inquiries or further discussion about my work, please feel free to contact me via email: [Assane DIALLO](mailto:asn.diallo@outlook.com). 📬
