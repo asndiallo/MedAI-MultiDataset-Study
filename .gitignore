@@ -161,4 +161,4 @@ cython_debug/
 
 # Local Files
 .DS_Store
-data/*
+assets/data/*
